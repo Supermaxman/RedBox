@@ -1,0 +1,6 @@
+name: RedBox
+main: me.supermaxman.redbox.RedBox
+version: 1.0
+description: >
+             RedBox
+commands:
